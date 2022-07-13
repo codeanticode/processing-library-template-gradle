@@ -8,7 +8,7 @@ void setup() {
   
   hello = new HelloLibrary(this);
   
-  PFont font = createFont("",40);
+  PFont font = createFont("Arial", 40);
   textFont(font);
 }
 
